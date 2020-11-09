@@ -1,0 +1,1 @@
+gcc -fopenmp prog.c -o prog
