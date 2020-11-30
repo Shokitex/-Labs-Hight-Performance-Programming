@@ -1,0 +1,1 @@
+gcc -fopenacc prog.c -o prog
